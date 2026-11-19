@@ -1,181 +1,71 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=true&classic=false&expand=false&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=true&sort=false&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2FRuk1ng001%2FfreeSub%2Frefs%2Fheads%2Fmain%2Fclash.yaml interval=86400 strict=false
 
-[HTTP] C🟠🇰🇷hos_dokng.com_71bc493d = http, 211.188.59.191, 80, tls=false, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇩🇪mob[🤖💬🔮🧩]_dokng.com_0774f701 = ss, 47.254.175.2, 443, encrypt-method=2022-blake3-chacha20-poly1305, password=8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_7e54912d = https, 172.64.69.89, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] A🟢🇺🇸res[🤖💬🔮🧩]_dokng.com_13bf47ac = https, 118.184.140.90, 58764, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_76210b82 = vmess, www.shopify.com, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=www.shopify.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_9513c3ec = https, 172.64.69.89, 443, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇩🇪hos[🤖💬🧩🎵]_dokng.com_270f10d1 = https, 116.202.172.99, 443, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇩🇪hos[🤖💬🧩🎵]_dokng.com_9e1fea1b = https, 116.202.172.99, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] C🟠🇫🇷hos[🤖💬🔮🧩]_dokng.com_0c42c011 = https, fr017.freeconnect.link, 9251, freeuser1, freeuser1, skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_d89346f5 = vmess, 172.64.145.93, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=172.64.145.93, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇨🇿hos[🤖💬🔮🧩]_dokng.com_654d560d = https, 185.216.35.66, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_60f2407f = https, 172.64.68.89, 443, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇷🇺hos[🔮📺🎵🎮]_dokng.com_03de321c = https, 46.29.166.134, 1446, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇩🇪mob[🤖💬🔮🧩]_dokng.com_eaca025f = ss, 47.254.143.251, 443, encrypt-method=2022-blake3-chacha20-poly1305, password=8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=, tfo=false, udp-relay=true
-[HTTPS] D🔴🇮🇪hos[🤖💬🧩🎵]_dokng.com_37e4a848 = https, 34.249.214.108, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇩🇰hos[🤖💬🔮🧩]_dokng.com_1ed30155 = https, 185.245.84.50, 9443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_aff0968e = https, 172.64.68.89, 443, , None, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_5a16ef58 = https, 84.17.47.123, 9002, , None, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_5fce3aa0 = https, 84.17.47.126, 9002, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_d004f021 = https, 84.17.47.147, 9002, , None, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇩🇪hos[🤖💬🔮🧩]_dokng.com_d879bd56 = https, 87.106.223.158, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_461db3e8 = https, 84.17.47.149, 9002, , None, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] C🟠🇱🇺hos[🤖💬🔮🧩]_dokng.com_7d58d898 = https, 185.221.132.242, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_338a16a0 = https, 84.17.47.126, 9002, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇩🇪mob[🤖💬🔮🧩]_dokng.com_b06e93b0 = ss, 47.85.201.22, 443, encrypt-method=2022-blake3-chacha20-poly1305, password=3NBsnBLanPfG6i3S2GTHineswr6EeSJPb0PCeMQoGoA=, tfo=false, udp-relay=true
-[HTTPS] D🔴🇩🇪hos[🤖💬🧩🎵]_dokng.com_853cbfea = https, 159.69.94.125, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] D🔴🇺🇸hos_dokng.com_a6052a43 = socks5, 66.253.2.69, 62000, username=u_rb1dba2, password=l1tlrdx52v, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_47dbdd00 = https, 84.17.47.147, 9002, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_cf7ad954 = https, 84.17.47.126, 9002, , None, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🧩📺]_dokng.com_3744e5a8 = https, 149.36.51.129, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_871ec4a5 = https, 23.133.176.14, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTP] A🟢🇺🇸res[🎭🎞️📦]_dokng.com_7195c22c = http, 192.220.47.85, 8000, username=ozbqjztv, password=ozbqjztv, tls=false, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] U⚪🏳️ukn_dokng.com_8f822f25 = https, 185.216.35.130, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇮🇪hos[🤖💬🧩🎵]_dokng.com_27e5951b = https, 18.200.158.139, 443, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_319d3692 = https, 84.17.47.148, 9002, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_33ffe908 = https, 84.17.47.146, 9002, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
-[Trojan] U⚪🏳️ukn[🤖💬🔮🧩]_dokng.com_1fb4dc8c = trojan, ipfast.kingmna.com, 443, password=SiFvGI5bX01GGtGOJ2_nxA, sni=cdn.akamai.steamstatic.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_f6303636 = https, 84.17.47.148, 9002, , None, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTP] C🟠🇰🇷hos[🤖🧩🔍📚]_dokng.com_0c7976c9 = http, 211.188.55.218, 80, tls=false, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_16becad2 = https, 84.17.47.125, 9002, , None, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇩🇪mob[🤖💬🔮🧩]_dokng.com_c3f267c9 = ss, 47.254.175.2, 443, encrypt-method=2022-blake3-chacha20-poly1305, password=8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_f03b1640 = https, 84.17.47.124, 9002, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_3c7dfbe6 = https, 84.17.47.146, 9002, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[Trojan] C🟠🇺🇸hos[🤖💬🔮🧩]_dokng.com_efb3489b = trojan, ipfast.kingmna.com, 443, password=SiFvGI5bX01GGtGOJ2_nxA, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇩🇪hos[🤖💬🔮🧩]_dokng.com_b9dd7ad2 = ss, dlc.deltapc.digital, 8080, encrypt-method=xchacha20-ietf-poly1305, password=XslosfcUJO5KI0aMKrZopPkKsZG0R3e+q5MUA6Wb3a8=, tfo=false, udp-relay=true
-[Trojan] C🟠🇺🇸hos[🤖💬🔮🧩]_dokng.com_abfd08c5 = trojan, ipfast.kingmna.com, 443, password=SiFvGI5bX01GGtGOJ2_nxA, sni=cdn.akamai.steamstatic.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇹🇭res[🎵]_dokng.com_5d41bcce = socks5, 192.204.15.135, 42000, username=X3s3JteD, password=mpbK00Pl, skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] D🔴🇸🇬hos[📺]_dokng.com_c8c444fd = socks5, 66.80.2.252, 62000, username=usereb7d, password=c0a34a, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] A🟢🇺🇸res[🤖💬🔮🧩]_dokng.com_7f773846 = https, 71.43.26.234, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇩🇪mob[🤖💬🔮📺]_dokng.com_437fecb2 = ss, 47.85.201.22, 443, encrypt-method=2022-blake3-chacha20-poly1305, password=3NBsnBLanPfG6i3S2GTHineswr6EeSJPb0PCeMQoGoA=, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮📺]_dokng.com_d37c7415 = https, fan.365747.xyz, 443, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] C🟠🇫🇷hos[🤖💬🔮🎵]_dokng.com_ff9b00b5 = https, fr003.freeconnect.link, 9251, freeuser1, freeuser1, skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇲🇽res_dokng.com_24835ec5 = socks5, 94.194.165.96, 62000, username=QyVdo5ks, password=lcFa8dTH, skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_8fd5163f = vmess, 104.18.42.163, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=guanwang.awsno.com, ws-headers=Host:guanwang.awsno.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[Trojan] C🟠🇺🇸hos[🤖💬🔮🧩]_dokng.com_6765b17e = trojan, ipfast.kingmna.com, 443, password=SiFvGI5bX01GGtGOJ2_nxA, sni=cdn.akamai.steamstatic.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] U⚪🏳️ukn_dokng.com_8d8bfa9f = https, 149.22.85.65, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] D🔴🇺🇸hos_dokng.com_034ba6dd = socks5, 216.132.114.27, 62000, username=JzufiJ62, password=75bPoRcB, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[💬🎵🎞️📦]_dokng.com_e8ab9faf = https, 137.175.22.52, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] D🔴🇺🇸hos_dokng.com_60b20da2 = socks5, 216.132.114.182, 62000, username=u_rf6ba87, password=r1703057as, skip-cert-verify=true, tfo=false, udp-relay=true
+[SOCKS5] D🔴🇰🇷hos[🔮🎵📚]_dokng.com_f7be86c8 = socks5, 121.169.46.116, 1090, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_9986f45d = https, 84.17.47.148, 9002, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇳🇱hos[🤖💬🔮🎵]_dokng.com_33ffe908 = https, 84.17.47.146, 9002, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇳🇱hos[🤖💬🔮📦]_dokng.com_47dbdd00 = https, 84.17.47.147, 9002, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇮🇪hos[🤖💬🎮✈️]_dokng.com_37e4a848 = https, 34.249.214.108, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[SOCKS5] D🔴🇫🇷hos[📺]_dokng.com_238d1eea = socks5, 144.56.22.78, 42000, username=L8wP3kQx, password=Zn5mR7vA, skip-cert-verify=true, tfo=false, udp-relay=true
 [HTTPS] D🔴🇦🇹hos[🤖💬🔮🧩]_dokng.com_8408eb8a = https, 146.70.244.2, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] D🔴🇸🇬hos_dokng.com_731ac5ff = socks5, 47.236.168.243, 1080, username=8888, password=8888, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇱🇻hos[🤖💬🔮🧩]_dokng.com_a0b4e075 = https, 185.219.159.15, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] C🟠🇹🇭hos_dokng.com_5acf8d13 = socks5, 104.234.70.82, 42000, username=rnt2L4XO, password=KT5hiU8o, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🧩🎵]_dokng.com_8302b676 = https, 44.248.167.117, 8443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇲🇽res_dokng.com_1aa34d5e = socks5, 94.194.164.203, 62000, username=rVkkraqT, password=2j7CCZQb, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇩🇪hos[🤖💬🔮🧩]_dokng.com_380d6623 = https, 185.44.107.166, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇹🇭res_dokng.com_63f8b36e = socks5, 82.47.152.151, 42000, username=userLjVB, password=Ks4Iab43, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇪🇸hos[🤖💬🔮📺]_dokng.com_9418be9e = https, 80.24.34.107, 8090, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_4cc7e454 = https, 38.95.111.226, 9443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_ffebf486 = https, fan.365747.xyz, 443, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] C🟠🇨🇦hos[🤖💬🔮🧩]_dokng.com_8a105a38 = https, 198.44.142.27, 9443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇩🇪mob[🤖💬🔮🧩]_dokng.com_03f136bb = ss, 47.85.201.22, 443, encrypt-method=2022-blake3-chacha20-poly1305, password=3NBsnBLanPfG6i3S2GTHineswr6EeSJPb0PCeMQoGoA=, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇹🇭res_dokng.com_18746d5d = socks5, 109.66.136.42, 62000, username=r3ZzP8WW, password=zdnivBaI, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🎵🎮]_dokng.com_2c32d4b4 = https, 66.153.187.90, 8090, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTP] D🔴🇸🇬hos[🐙]_dokng.com_c3e3de90 = http, 146.190.80.158, 9090, tls=false, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_86fd6822 = https, 84.17.47.125, 9002, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇹🇭res_dokng.com_3740a210 = socks5, 109.66.136.194, 62000, username=r3ZzP8WW, password=zdnivBaI, skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇹🇭res[🎵]_dokng.com_441fecdf = socks5, 151.246.108.69, 42000, username=h87527jJ, password=fAgE2jqK, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮📺]_dokng.com_c9cdfff6 = ss, 202.50.253.27, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_01776833 = ss, 202.50.253.36, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇹🇭res_dokng.com_72bd5c3a = socks5, 192.204.15.192, 42000, username=X3s3JteD, password=mpbK00Pl, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮📺]_dokng.com_79faec8a = ss, 202.50.253.18, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[HTTPS] U⚪🏳️ukn_dokng.com_016d9dc7 = https, 149.88.21.129, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇪🇨hos[🤖💬📺🎵]_dokng.com_b7f302f8 = https, 38.165.231.71, 9443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮📺]_dokng.com_e690e14e = ss, 202.50.253.72, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[HTTPS] D🔴🇫🇷hos[🤖💬🔮🧩]_dokng.com_d04a31b7 = https, 83.206.1.225, 8090, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮🧩]_dokng.com_c23341c5 = ss, 202.50.253.63, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮🧩]_dokng.com_8817c7e2 = ss, 202.50.253.72, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇹🇭res_dokng.com_da6cca38 = socks5, 151.246.109.86, 42000, username=AJ3d9gJw, password=1pB7HV6u, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] C🟠🇬🇧hos[🤖💬🔮🧩]_dokng.com_7c18af79 = https, 84.17.50.129, 9443, , None, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮🧩]_dokng.com_544fdd46 = ss, 202.50.253.54, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_19166187 = vmess, 172.64.145.93, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=172.64.145.93, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_04808d3a = ss, 202.50.253.18, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_30207bf9 = ss, 202.50.253.36, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_07162a4c = ss, 202.50.253.99, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬📺🎵]_dokng.com_d027a441 = ss, 202.50.253.72, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] A🟢🇯🇵res[🤖💬🔮📺]_dokng.com_706cdb9e = ss, jp01-ipv6.linkms001.com, 22222, encrypt-method=chacha20-ietf-poly1305, password=jcZ1WR03oknoEJYA, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮📺]_dokng.com_965ad625 = ss, 202.50.253.72, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_31571c1e = vmess, 172.67.190.164, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=172.67.190.164, skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] D🔴🇸🇬hos_dokng.com_c1097180 = socks5, 47.236.168.243, 1080, username=8888, password=8888, skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇧🇷res[🎵]_dokng.com_936e7dd6 = socks5, 191.7.129.133, 62000, username=uwrgfkwg, password=0mvrt5jb, skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_2b341f25 = vmess, www.shopify.com, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=guanwang.awsno.com, ws-headers=Host:guanwang.awsno.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬📺🎵]_dokng.com_568f056a = https, 149.34.248.65, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_641a38ed = ss, 202.50.253.27, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇹🇭res_dokng.com_8be67b1a = socks5, 87.84.49.140, 62000, username=ks878449260d, password=YlRoWvE0dL_cUqS94wPeKnA4, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_7441ad35 = ss, 202.50.253.99, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮📺]_dokng.com_8c1c6b5a = ss, 202.50.253.81, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮📺]_dokng.com_dd24c9de = ss, 202.50.253.90, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_885d389b = ss, 202.50.253.18, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮📺]_dokng.com_ae9a4420 = ss, 202.50.253.90, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮🧩]_dokng.com_4f120f57 = ss, 202.50.253.54, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮🧩]_dokng.com_a7740ab5 = ss, 202.50.253.81, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SOCKS5] C🟠🇺🇸hos_dokng.com_5508d57a = socks5, 23.230.200.157, 62000, username=uw2u8ysi, password=uclirp9v, skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇹🇭res_dokng.com_bf81894b = socks5, 151.246.109.158, 42000, username=AJ3d9gJw, password=1pB7HV6u, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮📺]_dokng.com_2e294afd = ss, 202.50.253.54, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_ed9e5a0d = ss, 202.50.253.27, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮📺]_dokng.com_ed4de7bb = ss, 202.50.253.90, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_5381c352 = ss, 202.50.253.45, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_92c172b4 = ss, 202.50.253.45, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇹🇭res[🤖]_dokng.com_a8a9e262 = socks5, 103.14.164.30, 42000, username=route164JIa2CBPxfy, password=VAwyJQX0iKMJiyCw5UVK9wGH, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮📺]_dokng.com_fd0047a3 = ss, 202.50.253.81, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_25decbaa = ss, 202.50.253.36, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮📺]_dokng.com_36a11898 = https, 38.28.185.224, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮📺]_dokng.com_48d202d9 = ss, 202.50.253.63, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮🧩]_dokng.com_8ed40d75 = ss, 202.50.253.90, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[HTTPS] D🔴🇭🇷hos[🤖💬🎵]_dokng.com_877c33ea = https, 154.47.29.161, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_571b13b9 = https, fan.226278.xyz, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] C🟠🇬🇷hos[🤖💬🧩📺]_dokng.com_4cc1e630 = https, 149.22.85.78, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮🧩]_dokng.com_3bb0f43a = ss, 202.50.253.63, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_e0e3bc52 = ss, 202.50.253.45, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮🧩]_dokng.com_444fcb7f = ss, 202.50.253.54, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SS] C🟠🇮🇹hos[🤖💬🔮🧩]_dokng.com_9f940a28 = ss, 202.50.253.99, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[HTTPS] D🔴🇨🇦hos[🤖💬📺]_dokng.com_a3f8f2f3 = https, 149.88.98.81, 9443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_af69ec32 = https, 38.28.193.39, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_72592148 = https, 38.28.185.163, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮🧩]_dokng.com_e6f6d671 = ss, 202.50.253.63, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇹🇭res_dokng.com_021435aa = socks5, 87.84.49.245, 62000, username=ks878449260d, password=YlRoWvE0dL_cUqS94wPeKnA4, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_1188f394 = https, fan.226278.xyz, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] C🟠🇿🇦hos[🤖💬🔮🐙]_dokng.com_cae81acb = https, 197.242.159.23, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] C🟠🇩🇪hos[🤖💬📺🎵]_dokng.com_fd543d9d = https, 149.36.50.157, 443, , None, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮🧩]_dokng.com_e7fda757 = ss, 202.50.253.81, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[HTTPS] D🔴🇩🇪hos[🤖💬🔮📺]_dokng.com_c44f7fb9 = https, 176.94.74.21, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇯🇵hos[🤖💬🔮🧩]_dokng.com_0f4839b8 = https, fan.571589.xyz, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇫🇷hos[📺]_dokng.com_9ccf3749 = https, 149.102.245.65, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮🧩]_dokng.com_04af617c = ss, 202.50.253.63, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇻🇳res[🔮]_dokng.com_11eacb89 = socks5, 103.184.113.190, 62000, username=qT46DZLv, password=jHsK2gqs, skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] C🟠🇺🇸hos[🤖💬🔮🧩]_dokng.com_2a9f6317 = vmess, 49.51.179.155, 42022, username=8ce7802c-019c-4568-f6ac-89f13c6d545d, tls=false, vmess-aead=true, skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_8df9da91 = vmess, 188.114.99.137, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=188.114.99.137, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🎵]_dokng.com_43f6084c = https, 209.148.53.153, 8090, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_6aa30a4a = vmess, 172.64.145.93, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=172.64.145.93, skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇻🇳res_dokng.com_8b68a714 = socks5, 103.184.113.236, 62000, username=qT46DZLv, password=jHsK2gqs, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇳🇱hos[🤖💬🔮🎵]_dokng.com_f6303636 = https, 84.17.47.148, 9002, , None, skip-cert-verify=true, tfo=false, udp-relay=true
+[SOCKS5] D🔴🇯🇵hos_dokng.com_4900a88a = socks5, 103.248.150.50, 42000, username=paZFN3JA, password=EGJDy5Kg, skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] C🟠🇮🇹hos[📺]_dokng.com_c9cdfff6 = ss, 202.50.253.27, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[HTTPS] C🟠🇩🇪hos[🤖💬🧩📺]_dokng.com_fc3b3a41 = https, 149.36.50.1, 443, , None, skip-cert-verify=true, tfo=false, udp-relay=true
+[SOCKS5] D🔴🇵🇭hos_dokng.com_19b515e6 = socks5, 103.18.230.88, 42000, username=uv4oakg5, password=s6a1j38q, skip-cert-verify=true, tfo=false, udp-relay=true
+[SOCKS5] A🟢🇻🇳res_dokng.com_11eacb89 = socks5, 103.184.113.190, 62000, username=qT46DZLv, password=jHsK2gqs, skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] D🔴🇮🇹hos[📺]_dokng.com_8c1c6b5a = ss, 202.50.253.81, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[SOCKS5] D🔴🇺🇸hos_dokng.com_a6052a43 = socks5, 66.253.2.69, 62000, username=u_rb1dba2, password=l1tlrdx52v, skip-cert-verify=true, tfo=false, udp-relay=true
+[VMess] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_0cb09444 = vmess, 192.74.236.148, 30004, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=true, vmess-aead=false, tls13=false, ws=true, ws-path=/path/1733477783705, sni=192.74.236.148, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇨🇿hos[🤖💬🔮🧩]_dokng.com_654d560d = https, 185.216.35.66, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[VMess] D🔴🇺🇸hos[🤖💬🔮🧩]_dokng.com_13889823 = vmess, 192.74.236.148, 30004, username=418048af-a293-4b99-9b0c-98ca3580dd24, tls=true, vmess-aead=false, tls13=false, ws=true, ws-path=/path/1733477783705, sni=www.91334565.xyz, ws-headers=Host:www.91334565.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] C🟠🇮🇹hos[🤖🔮🎵🎮]_dokng.com_e4fa7507 = ss, 202.50.253.45, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[SS] D🔴🇮🇹hos[🤖💬🔮🎮]_dokng.com_e690e14e = ss, 202.50.253.72, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[SS] U⚪🏳️ukn[🤖🔮🎵✈️]_dokng.com_7441ad35 = ss, 202.50.253.99, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[SS] D🔴🇮🇹hos[📺🎮🔍]_dokng.com_8ed40d75 = ss, 202.50.253.90, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[HTTPS] D🔴🇺🇸hos[🤖🎵✈️🐙]_dokng.com_016d9dc7 = https, 149.88.21.129, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] C🟠🇬🇷hos[🤖💬🎵]_dokng.com_4cc1e630 = https, 149.22.85.78, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] C🟠🇦🇱hos[🤖💬🔮🎵]_dokng.com_5c5a81ec = https, 87.120.103.242, 443, , None, skip-cert-verify=true, tfo=false, udp-relay=true
 [HTTPS] D🔴🇸🇬hos[🤖💬🔮🎵]_dokng.com_185196af = https, 154.26.139.24, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] A🟢🇮🇩res[🔮]_dokng.com_85aa1e0b = socks5, 203.84.138.59, 62000, username=9tcjLp2W, password=RRWtX6XP, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🔮🎵]_dokng.com_853162e1 = https, 38.247.141.135, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[Trojan] D🔴🇳🇬hos[🤖💬🔮🎮]_dokng.com_37488dee = trojan, sclass-00.catcat321.com, 20103, password=d9064589-74af-432a-9390-5d8a9da281bf, sni=hk.catxstar.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_fa0120b9 = vmess, 104.18.42.163, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=guanwang.awsno.com, ws-headers=Host:guanwang.awsno.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇻🇳hos[🤖💬🔮🎮]_dokng.com_79e10a5c = https, 14.225.71.128, 8443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_181f1abb = vmess, www.shopify.com, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=www.shopify.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_275e588f = vmess, 188.114.99.137, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=guanwang.awsno.com, ws-headers=Host:guanwang.awsno.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] U⚪🏳️ukn_dokng.com_903162eb = https, 149.88.99.209, 9443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[SOCKS5] D🔴🇮🇹hos_dokng.com_1c28314a = socks5, 69.16.157.244, 1080, username=ufCobhydz4Wd, password=JdFlrZhqHP, skip-cert-verify=true, tfo=false, udp-relay=true
-[SS] D🔴🇮🇹hos[🤖💬🔮🧩]_dokng.com_717452ac = ss, 202.50.253.54, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_b0b243bb = https, 5.255.118.82, 443, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_2a7c9e1f = vmess, 172.67.190.164, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=guanwang.awsno.com, ws-headers=Host:guanwang.awsno.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🎮✈️]_dokng.com_741f8346 = https, 162.243.146.243, 443, testuser1, e4b72b531a2d10900519, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇺🇸hos[🤖💬🧩🎮]_dokng.com_fccd5dab = https, 47.90.206.169, 7615, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇩🇪hos[🤖💬🔮🎮]_dokng.com_92e8593b = https, 213.109.163.119, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTP] D🔴🇺🇸hos[🐙]_dokng.com_4e17894f = http, 154.26.192.123, 10988, username=fQ67Dpe5dU, password=gs4BXwT6SW, tls=false, skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_02ca1a41 = vmess, 188.114.99.137, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=guanwang.awsno.com, ws-headers=Host:guanwang.awsno.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] U⚪🇳🇱ukn[🤖💬🔮🎮]_dokng.com_1b492461 = https, nl205.freeconnect.link, 9251, freeuser1, freeuser1, skip-cert-verify=true, tfo=false, udp-relay=true
-[Trojan] U⚪🇳🇬ukn[🤖🎵]_dokng.com_bc464334 = trojan, sclass-01.catcat321.com, 20103, password=d7563108-615c-4338-a7bd-77f359869a4a, sni=hk.catxstar.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🎵]_dokng.com_2be510be = https, 5.255.118.82, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] U⚪🇳🇱ukn[🤖💬🔮🎵]_dokng.com_06eb10c7 = https, nl199.freeconnect.link, 9251, freeuser1, freeuser1, skip-cert-verify=true, tfo=false, udp-relay=true
-[VMess] U⚪🏳️ukn_dokng.com_efb39810 = vmess, 172.67.190.164, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=guanwang.awsno.com, ws-headers=Host:guanwang.awsno.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[HTTPS] D🔴🇳🇱hos[🤖💬🔮🧩]_dokng.com_9786e1ec = https, 103.97.88.154, 443, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
-[Trojan] D🔴🇳🇬hos[🤖💬🔮🎮]_dokng.com_ad8b431b = trojan, sclass-00.catcat321.com, 20103, password=d7563108-615c-4338-a7bd-77f359869a4a, sni=hk.catxstar.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[Trojan] D🔴🇳🇬hos[🤖💬🔮🎮]_dokng.com_3c9094c8 = trojan, sclass-00.catcat321.com, 20103, password=d9064589-74af-432a-9390-5d8a9da281bf, sni=hk.catxstar.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[Trojan] D🔴🇳🇬hos[🤖💬🎮✈️]_dokng.com_919ade67 = trojan, sclass-c2.catcat321.com, 20051, password=d9064589-74af-432a-9390-5d8a9da281bf, sni=hk.catxstar.com, skip-cert-verify=true, tfo=false, udp-relay=true
-[Trojan] D🔴🇳🇬hos[🤖💬🔮🎮]_dokng.com_0d39a05a = trojan, sclass-01.catcat321.com, 20103, password=d7563108-615c-4338-a7bd-77f359869a4a, sni=hk.catxstar.com, skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] D🔴🇮🇹hos[🤖🔮🎵🎮]_dokng.com_444fcb7f = ss, 202.50.253.54, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[HTTPS] C🟠🇬🇷hos[🤖📺🎵]_dokng.com_8d8bfa9f = https, 149.22.85.65, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] C🟠🇳🇱hos[🤖💬🧩📺]_dokng.com_3744e5a8 = https, 149.36.51.129, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇯🇵hos[🤖💬🔮🧩]_dokng.com_0f4839b8 = https, fan.571589.xyz, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[SOCKS5] A🟢🇹🇭res[🤖🔮🎮🐙]_dokng.com_8be67b1a = socks5, 87.84.49.140, 62000, username=ks878449260d, password=YlRoWvE0dL_cUqS94wPeKnA4, skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] D🔴🇮🇹hos[🤖🔮🧩🎵]_dokng.com_ed4de7bb = ss, 202.50.253.90, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[SOCKS5] A🟢🇹🇭res_dokng.com_441fecdf = socks5, 151.246.108.69, 42000, username=h87527jJ, password=fAgE2jqK, skip-cert-verify=true, tfo=false, udp-relay=true
+[SOCKS5] D🔴🇺🇸hos_dokng.com_342cda1e = socks5, 45.61.188.134, 44499, skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] D🔴🇮🇹hos[🤖💬🔮🎵]_dokng.com_3bb0f43a = ss, 202.50.253.63, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[SOCKS5] C🟠🇲🇽hos[🔍]_dokng.com_aff11c5d = socks5, 144.225.47.68, 42000, username=DJy1T0dt, password=sZnD8GTz, skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] D🔴🇮🇹hos[🤖💬🔮🔍]_dokng.com_544fdd46 = ss, 202.50.253.54, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[SOCKS5] D🔴🇸🇬hos[🔮🎵]_dokng.com_c8c444fd = socks5, 66.80.2.252, 62000, username=usereb7d, password=c0a34a, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇺🇸hos[🤖💬🔮🎵]_dokng.com_ffebf486 = https, fan.365747.xyz, 443, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
+[SOCKS5] A🟢🇹🇭res[🎮]_dokng.com_a8a9e262 = socks5, 103.14.164.30, 42000, username=route164JIa2CBPxfy, password=VAwyJQX0iKMJiyCw5UVK9wGH, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇺🇸hos[🤖🔮📺]_dokng.com_4cc7e454 = https, 38.95.111.226, 9443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇺🇸hos[🤖💬🔮🎮]_dokng.com_f4f770d1 = https, 38.28.185.166, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[SOCKS5] A🟢🇹🇭res_dokng.com_021435aa = socks5, 87.84.49.245, 62000, username=ks878449260d, password=YlRoWvE0dL_cUqS94wPeKnA4, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇫🇷hos[🤖💬🎮✈️]_dokng.com_9ccf3749 = https, 149.102.245.65, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] C🟠🇮🇹hos[🤖💬🔮🎵]_dokng.com_04808d3a = ss, 202.50.253.18, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[HTTPS] D🔴🇺🇸hos[🤖💬🎵]_dokng.com_568f056a = https, 149.34.248.65, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] C🟠🇮🇹hos[🤖💬🔮📺]_dokng.com_57445a13 = ss, 202.50.253.18, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[HTTPS] D🔴🇺🇸hos[🤖💬🔮🎵]_dokng.com_d37c7415 = https, fan.365747.xyz, 443, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇳🇱hos[🤖💬🔮📺]_dokng.com_c6134407 = https, 84.17.47.149, 9002, null, null, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇳🇱hos[🤖💬🔮📦]_dokng.com_5a16ef58 = https, 84.17.47.123, 9002, , None, skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] C🟠🇮🇹hos[🤖💬🔮🎮]_dokng.com_07162a4c = ss, 202.50.253.99, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[SS] D🔴🇮🇹hos[🤖💬🔮✈️]_dokng.com_48d202d9 = ss, 202.50.253.63, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[SOCKS5] A🟢🇹🇭res[🔮🎮🐙🔍]_dokng.com_c58cd50f = socks5, 103.14.164.202, 42000, username=route164JIa2CBPxfy, password=VAwyJQX0iKMJiyCw5UVK9wGH, skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] U⚪🏳️ukn[💬🎮📚]_dokng.com_92c172b4 = ss, 202.50.253.45, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[HTTPS] D🔴🇺🇸hos[🤖🎮✈️📚]_dokng.com_34c3c6dd = https, 137.175.77.35, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] D🔴🇮🇹hos[🤖💬🔮🎵]_dokng.com_2e294afd = ss, 202.50.253.54, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[SOCKS5] A🟢🇹🇭res[🎮✈️]_dokng.com_bf81894b = socks5, 151.246.109.158, 42000, username=AJ3d9gJw, password=1pB7HV6u, skip-cert-verify=true, tfo=false, udp-relay=true
+[SOCKS5] D🔴🇺🇸hos_dokng.com_60b20da2 = socks5, 216.132.114.182, 62000, username=u_rf6ba87, password=r1703057as, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTP] D🔴🇺🇸hos[🎮🐙]_dokng.com_4e17894f = http, 154.26.192.123, 10988, username=fQ67Dpe5dU, password=gs4BXwT6SW, tls=false, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] A🟢🇸🇬res[💬]_dokng.com_903162eb = https, 149.88.99.209, 9443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[SOCKS5] A🟢🇲🇽res_dokng.com_1aa34d5e = socks5, 94.194.164.203, 62000, username=rVkkraqT, password=2j7CCZQb, skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] C🟠🇮🇹hos[🤖💬🔮🎮]_dokng.com_30207bf9 = ss, 202.50.253.36, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[SOCKS5] D🔴🇺🇸hos_dokng.com_3dc5b537 = socks5, 216.132.114.194, 62000, username=utdr8wvs, password=7i1dheg6, skip-cert-verify=true, tfo=false, udp-relay=true
+[SOCKS5] C🟠🇲🇽hos_dokng.com_12126395 = socks5, 144.225.47.106, 42000, username=DJy1T0dt, password=sZnD8GTz, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] D🔴🇳🇱hos[🤖💬🔮🎮]_dokng.com_1ee853a3 = https, 84.17.47.125, 9002, null, None, skip-cert-verify=true, tfo=false, udp-relay=true
+[HTTPS] U⚪🏳️ukn[🤖🔮🎵]_dokng.com_1188f394 = https, fan.226278.xyz, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
+[VMess] U⚪🏳️ukn_dokng.com_18866abf = vmess, www.shopify.com, 443, username=6a89a215-22bf-4bd7-9642-b95b2e09583a, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/hls/cctv5phd.m3u8, sni=guanwang.awsno.com, ws-headers=Host:guanwang.awsno.com, skip-cert-verify=true, tfo=false, udp-relay=true
+[SS] D🔴🇮🇹hos[🤖💬🔮🎞️]_dokng.com_c23341c5 = ss, 202.50.253.63, 19999, encrypt-method=aes-256-gcm, password=ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo=false, udp-relay=true
+[HTTPS] D🔴🇯🇵hos[🤖💬🔮🧩]_dokng.com_9d3ee5ab = https, fan.571589.xyz, 443, , , skip-cert-verify=true, tfo=false, udp-relay=true
